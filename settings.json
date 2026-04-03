@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "12345678A",
     "type": "offline"
   },
   "server": {
     "ip": "AbuAnter.aternos.me",
     "port": 57624,
-    "version": "",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1489764788962853017/EP_xwRW-904-QnQOE44BO-xdXIKCrwFIdXVi25k1dlL9-bQ1xakVDyfpFYhN0Ct_BFGG",
     "events": {
       "connect": true,
       "disconnect": true,
